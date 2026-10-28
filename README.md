@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**rawanhossamdev/rawanhossamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rawan Hossam 👋
 
-Here are some ideas to get you started:
+### Flutter Developer | Mobile App Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Developer passionate about building modern, responsive, and user-friendly mobile applications.
+
+I enjoy turning creative ideas into functional apps using Flutter and Dart.
+
+## 🛠️ Tech Stack
+
+- **Mobile:** Flutter, Dart
+- **Backend Integration:** REST APIs, Node.js
+- **Tools:** Git, GitHub, Android Studio, VS Code
+- **Other Interests:** UI/UX Design, Firebase
+
+## 🚀 Featured Projects
+
+### MODA Shop 🛍️
+**Status: In Progress**
+
+A fashion e-commerce mobile application built with Flutter and Dart.
+
+Features include product browsing, product details, shopping cart, and user authentication.
+
+### WASLA CRM 🚚
+**Graduation Project**
+
+A transportation and shipping management platform designed to help clients find suitable shipping companies.
+
+## 🌐 Connect With Me
+
+- [Behance](https://www.behance.net/rawanhossamdev)
+- [GitHub](https://github.com/rawanhossamdev)
+
+## ✨ Currently
+
+- Developing MODA Shop
+- Improving my Flutter and UI/UX skills
+- Building my professional portfolio
